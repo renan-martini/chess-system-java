@@ -1,6 +1,6 @@
-package models.entities;
+package models.boardgame;
 
-public abstract class Position {
+public class Position {
   private Integer row;
   private Integer column;
 
